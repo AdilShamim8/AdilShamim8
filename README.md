@@ -1,16 +1,23 @@
-## Hi there 👋
+### Hi there, I'm Adil Shamim 👋
 
-<!--
-**AdilShamim8/AdilShamim8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```bash
+echo 'Code is there for humans, not computers, to understand.';
+```
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**📊 My GitHub Stats**
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdilShamim8&show_icons=true&hide_title=true&count_private=true&theme=radical)
+
+---
+
+### 🛠️ Languages and Tools: Python and Jupyter Notebooks
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdilShamim8&theme=radical&layout=compact&langs_count=10)
+
+---
+
+**📫 Connect with me:**
+- [Twitter](https://twitter.com/adil_shamim8)
+- [LinkedIn](https://linkedin.com/in/adil-shamim8)
