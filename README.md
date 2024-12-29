@@ -20,4 +20,4 @@ echo 'Code is there for humans, not computers, to understand.';
 
 **📫 Connect with me:**
 - [Twitter](https://twitter.com/adil_shamim8)
-- [LinkedIn](https://linkedin.com/in/adil-shamim8)
+- [LinkedIn](http://linkedin.com/in/adilshamim8)
