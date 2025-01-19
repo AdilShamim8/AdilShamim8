@@ -18,7 +18,8 @@ echo 'Code is there for humans, not computers, to understand.';
 
 ---
 
-**👤 Connect with me:**  
+**Connect with me:**  
 
-- [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/adil_shamim8)  
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/adilshamim8)
+- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/adil_shamim8)  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/adilshamim8)  
+- [![LeetCode](https://img.shields.io/badge/LeetCode-F9C91A?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/AdilShamim8/)
