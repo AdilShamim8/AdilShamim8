@@ -29,6 +29,6 @@ echo 'Code is there for humans, not computers, to understand.';
 - [![LeetCode](https://img.shields.io/badge/LeetCode-F9C91A?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/AdilShamim8/)
 
 
-<a href="https://drive.google.com/file/d/1piRlmRj7sKd8arAKm4a3ChuZ_whWiewN/view">
-    <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
-</a>  
+<a href="https://drive.google.com/file/d/1piRlmRj7sKd8arAKm4a3ChuZ_whWiewN/view">  
+    <img src="https://img.shields.io/badge/Resume-red?style=flat-square&logo=adobe">  
+</a>
