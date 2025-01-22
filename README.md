@@ -1,3 +1,13 @@
+<p align="center">
+<a href="https://github.com/Afsah-Hyder">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&duration=2000&pause=1000&color=9745F5&center=true&multiline=true&width=650&height=80&lines=Afsah+Hyder;Researcher+%7C+Undergraduate+Student+%7C+Computer+Vision+%7C+Deep+Learning" alt="Typing SVG" />
+</a>
+<br/>
+
+
+
+
+
 ### Hi there, I'm Adil Shamim 👋
 
 ```bash
