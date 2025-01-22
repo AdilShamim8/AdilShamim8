@@ -4,12 +4,6 @@
 </a>
 <br/>
 
-
-
-
-
-### Hi there, I'm Adil Shamim 👋
-
 ```bash
 echo 'Code is there for humans, not computers, to understand.';
 ```
