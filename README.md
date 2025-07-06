@@ -12,6 +12,9 @@ Transforming complex data into actionable insights through machine learning and 
 <a href="https://drive.google.com/file/d/1piRlmRj7sKd8arAKm4a3ChuZ_whWiewN/view">  
     <img src="https://img.shields.io/badge/Resume-red?style=for-the-badge&logo=adobe">  
 </a>
+<a href="https://adilshamim8.github.io/">  
+    <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white">  
+</a>
 </p>
 
 ```python
@@ -81,17 +84,37 @@ print("The best code is not just functional, but also maintainable, scalable, an
 
 ## 🚀 Featured Projects
 
-### Deep Learning
-- **[Project Name]** - Advanced computer vision model for [specific application]
-- **[Project Name]** - NLP pipeline for [specific use case]
+### Machine Learning & AI
+- **[ML-Algorithm-Library](https://github.com/AdilShamim8/ML-Algorithm-Library)** - Pure-Python implementations of fundamental machine learning algorithms for hands-on learning and experimentation
+- **[50 Days of Machine Learning](https://github.com/AdilShamim8/50-Days-of-Machine-Learning)** - An immersive program with daily hands-on exercises exploring essential ML concepts and techniques
+- **[Book Recommender System](https://github.com/AdilShamim8/Book-Recommender-System)** - Personalized book recommendation engine based on user reading preferences and habits
+- **[Movie Recommender System](https://github.com/AdilShamim8/Movie-Recommender-System)** - ML-powered system offering personalized movie suggestions
+- **[Laptop Price Predictor](https://github.com/AdilShamim8/Laptop-Price-Predictor)** - Regression model that predicts laptop prices based on specifications
+- **[ML Roadmap and Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes)** - Curated collection of ML resources, notes, and learning paths
 
-### Machine Learning
-- **[Project Name]** - Predictive analytics system for [domain]
-- **[Project Name]** - Anomaly detection framework for [application]
+### Computer Vision & Deep Learning
+- **[Gesture Volume Control](https://github.com/AdilShamim8/Gesture-Volume-Control)** - Control your computer's volume with hand gestures using OpenCV and MediaPipe
+- **[Posture Detection](https://github.com/AdilShamim8/Posture-detection)** - Real-time pose detection with customizable face overlays
+- **[Cat vs Dog Classification](https://github.com/AdilShamim8/Cat_Vs_Dog_Image_Classification_Project)** - CNN-based deep learning model for distinguishing cats from dogs
+
+### Data Analysis & Visualization
+- **[COVID-19 Global Impact Analysis](https://github.com/AdilShamim8/COVID-19_Global_Impact_Analysis)** - Comprehensive analysis of COVID-19's global impact using WHO data
+- **[Olympic History Analysis](https://github.com/AdilShamim8/Olympic_History_Analysis)** - Visualization of 120 years of Olympic achievements
+- **[Stock Price Prediction](https://github.com/AdilShamim8/Stock_Price_Prediction)** - LSTM-based model for predicting stock prices using historical data
+- **[Study Abroad Dataset](https://github.com/AdilShamim8/Study_Abroad)** - Interactive analysis of global study program costs across countries and universities
+
+### NLP & Text Analysis
+- **[Resume Screening](https://github.com/AdilShamim8/Resume-Screening)** - AI-powered tool for efficient and fair candidate selection
+- **[Sentiment Analysis](https://github.com/AdilShamim8/Sentiment-analysis)** - Interactive NLP application classifying text sentiment via Streamlit
+- **[Email Spam Classifier](https://github.com/AdilShamim8/Email-Spam-Classifier)** - ML and NLP model for detecting spam emails with high accuracy
+- **[Prompt Engineering](https://github.com/AdilShamim8/Prompt-Engineering)** - Resource collection for mastering AI prompt crafting and optimization
 
 ### Web Development
-- **[Project Name]** - Full-stack application for [purpose]
-- **[Project Name]** - Interactive dashboard for data visualization
+- **[Personal Website](https://github.com/AdilShamim8/AdilShamim8.github.io)** - My portfolio showcasing projects and insights on technology and AI
+- **[Toolly](https://github.com/AdilShamim8/Toolly)** - Time-saving AI-powered productivity tool
+- **[Echo AI](https://github.com/AdilShamim8/Echo_AI)** - Web-based interactive chatbot with customizable interface
+- **[Harvard Website](https://github.com/AdilShamim8/Harvard-Website)** - Clean, responsive website inspired by Harvard's design
+- **[100 Simple Websites](https://github.com/AdilShamim8/100-Simple-Websites)** - Collection of beginner-friendly web development projects
 
 ## 📫 Connect With Me
 
