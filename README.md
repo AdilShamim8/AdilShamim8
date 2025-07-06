@@ -21,7 +21,7 @@ Transforming complex data into actionable insights through machine learning and 
 print("The best code is not just functional, but also maintainable, scalable, and elegant.")
 ```
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <table>
   <tr>
@@ -71,7 +71,7 @@ print("The best code is not just functional, but also maintainable, scalable, an
   </tr>
 </table>
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AdilShamim8&show_icons=true&count_private=true&theme=tokyonight" />
@@ -82,15 +82,15 @@ print("The best code is not just functional, but also maintainable, scalable, an
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdilShamim8&theme=tokyonight&layout=compact&langs_count=8" />
 </p>
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### Machine Learning & AI
+- **[ML Roadmap and Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes)** - Curated collection of ML resources, notes, and learning paths
 - **[ML-Algorithm-Library](https://github.com/AdilShamim8/ML-Algorithm-Library)** - Pure-Python implementations of fundamental machine learning algorithms for hands-on learning and experimentation
-- **[50 Days of Machine Learning](https://github.com/AdilShamim8/50-Days-of-Machine-Learning)** - An immersive program with daily hands-on exercises exploring essential ML concepts and techniques
+- **[Stock Price Prediction](https://github.com/AdilShamim8/Stock_Price_Prediction)** - LSTM-based model for predicting stock prices using historical data
 - **[Book Recommender System](https://github.com/AdilShamim8/Book-Recommender-System)** - Personalized book recommendation engine based on user reading preferences and habits
 - **[Movie Recommender System](https://github.com/AdilShamim8/Movie-Recommender-System)** - ML-powered system offering personalized movie suggestions
 - **[Laptop Price Predictor](https://github.com/AdilShamim8/Laptop-Price-Predictor)** - Regression model that predicts laptop prices based on specifications
-- **[ML Roadmap and Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes)** - Curated collection of ML resources, notes, and learning paths
 
 ### Computer Vision & Deep Learning
 - **[Gesture Volume Control](https://github.com/AdilShamim8/Gesture-Volume-Control)** - Control your computer's volume with hand gestures using OpenCV and MediaPipe
@@ -100,7 +100,6 @@ print("The best code is not just functional, but also maintainable, scalable, an
 ### Data Analysis & Visualization
 - **[COVID-19 Global Impact Analysis](https://github.com/AdilShamim8/COVID-19_Global_Impact_Analysis)** - Comprehensive analysis of COVID-19's global impact using WHO data
 - **[Olympic History Analysis](https://github.com/AdilShamim8/Olympic_History_Analysis)** - Visualization of 120 years of Olympic achievements
-- **[Stock Price Prediction](https://github.com/AdilShamim8/Stock_Price_Prediction)** - LSTM-based model for predicting stock prices using historical data
 - **[Study Abroad Dataset](https://github.com/AdilShamim8/Study_Abroad)** - Interactive analysis of global study program costs across countries and universities
 
 ### NLP & Text Analysis
@@ -110,13 +109,13 @@ print("The best code is not just functional, but also maintainable, scalable, an
 - **[Prompt Engineering](https://github.com/AdilShamim8/Prompt-Engineering)** - Resource collection for mastering AI prompt crafting and optimization
 
 ### Web Development
-- **[Personal Website](https://github.com/AdilShamim8/AdilShamim8.github.io)** - My portfolio showcasing projects and insights on technology and AI
 - **[Toolly](https://github.com/AdilShamim8/Toolly)** - Time-saving AI-powered productivity tool
 - **[Echo AI](https://github.com/AdilShamim8/Echo_AI)** - Web-based interactive chatbot with customizable interface
 - **[Harvard Website](https://github.com/AdilShamim8/Harvard-Website)** - Clean, responsive website inspired by Harvard's design
 - **[100 Simple Websites](https://github.com/AdilShamim8/100-Simple-Websites)** - Collection of beginner-friendly web development projects
+- **[Personal Website](https://github.com/AdilShamim8/AdilShamim8.github.io)** - My portfolio showcasing projects and insights on technology and AI
 
-## 📫 Connect With Me
+##  Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/adilshamim8">
