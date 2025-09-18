@@ -82,7 +82,6 @@ print("The best code is not just functional, but also maintainable, scalable, an
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdilShamim8&theme=tokyonight&layout=compact&langs_count=8" />
 </p>
 
-
 ##  Featured Projects
 
 ### Machine Learning & AI
@@ -95,6 +94,7 @@ print("The best code is not just functional, but also maintainable, scalable, an
 - **[GPT-2-Rebuild-nanoGPT](https://github.com/AdilShamim8/GPT-2-Rebuild-nanoGPT)** - A beginner-friendly, step-by-step reproduction of nanoGPT and GPT-2, inspired by Karpathy's lecture, for learning and experimentation with transformer language models
 - **[GenAI-Roadmap-with-Notes-Using-LangChain](https://github.com/AdilShamim8/GenAI-Roadmap-with-Notes-Using-LangChain)** - A comprehensive learning path and practical guide for Generative AI development with hands-on LangChain implementations and detailed notes
 - **[Machine_Learning_Housing_Corp](https://github.com/AdilShamim8/Machine_Learning_Housing_Corp)** - Project that predicts median house values in Californian districts using various machine learning algorithms and dataset features
+- **[Prices_Predictor_System](https://github.com/AdilShamim8/Prices_Predictor_System)** - Building an End-to-End Machine Learning Pipeline for Price Prediction using ZenML and MLflow
 
 ### Computer Vision & Deep Learning
 - **[Gesture Volume Control](https://github.com/AdilShamim8/Gesture-Volume-Control)** - Control your computer's volume with hand gestures using OpenCV and MediaPipe
@@ -121,7 +121,6 @@ print("The best code is not just functional, but also maintainable, scalable, an
 - **[Personal Website](https://github.com/AdilShamim8/AdilShamim8.github.io)** - My portfolio showcasing projects and insights on technology and AI
 - **[LearnEnglish](https://github.com/AdilShamim8/LearnEnglish)** - A beautiful, interactive web application designed to help Bengali speakers learn the 3000 most common English words with translations, meanings, and examples
 - **[Toolly_Studio](https://github.com/AdilShamim8/Toolly_Studio)** - A powerful Streamlit app for generating professional product ads using Bria AI's advanced image generation and manipulation APIs
-
 ##  Connect With Me
 
 <p align="center">
