@@ -86,15 +86,15 @@ print("The best code is not just functional, but also maintainable, scalable, an
 
 ### Machine Learning & AI
 - **[ML Roadmap and Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes)** - Curated collection of ML resources, notes, and learning paths
-- **[ML-Algorithm-Library](https://github.com/AdilShamim8/ML-Algorithm-Library)** - Pure-Python implementations of fundamental machine learning algorithms for hands-on learning and experimentation
-- **[Stock Price Prediction](https://github.com/AdilShamim8/Stock_Price_Prediction)** - LSTM-based model for predicting stock prices using historical data
-- **[Book Recommender System](https://github.com/AdilShamim8/Book-Recommender-System)** - Personalized book recommendation engine based on user reading preferences and habits
-- **[Movie Recommender System](https://github.com/AdilShamim8/Movie-Recommender-System)** - ML-powered system offering personalized movie suggestions
-- **[Laptop Price Predictor](https://github.com/AdilShamim8/Laptop-Price-Predictor)** - Regression model that predicts laptop prices based on specifications
-- **[GPT-2-Rebuild-nanoGPT](https://github.com/AdilShamim8/GPT-2-Rebuild-nanoGPT)** - A beginner-friendly, step-by-step reproduction of nanoGPT and GPT-2, inspired by Karpathy's lecture, for learning and experimentation with transformer language models
 - **[GenAI-Roadmap-with-Notes-Using-LangChain](https://github.com/AdilShamim8/GenAI-Roadmap-with-Notes-Using-LangChain)** - A comprehensive learning path and practical guide for Generative AI development with hands-on LangChain implementations and detailed notes
-- **[Machine_Learning_Housing_Corp](https://github.com/AdilShamim8/Machine_Learning_Housing_Corp)** - Project that predicts median house values in Californian districts using various machine learning algorithms and dataset features
+- **[ML-Algorithm-Library](https://github.com/AdilShamim8/ML-Algorithm-Library)** - Pure-Python implementations of fundamental machine learning algorithms for hands-on learning and experimentation
 - **[Prices_Predictor_System](https://github.com/AdilShamim8/Prices_Predictor_System)** - Building an End-to-End Machine Learning Pipeline for Price Prediction using ZenML and MLflow
+- **[GPT-2-Rebuild-nanoGPT](https://github.com/AdilShamim8/GPT-2-Rebuild-nanoGPT)** - A beginner-friendly, step-by-step reproduction of nanoGPT and GPT-2, inspired by Karpathy's lecture, for learning and experimentation with transformer language models
+- **[Book Recommender System](https://github.com/AdilShamim8/Book-Recommender-System)** - Personalized book recommendation engine based on user reading preferences and habits
+- **[Laptop Price Predictor](https://github.com/AdilShamim8/Laptop-Price-Predictor)** - Regression model that predicts laptop prices based on specifications
+- **[Stock Price Prediction](https://github.com/AdilShamim8/Stock_Price_Prediction)** - LSTM-based model for predicting stock prices using historical data
+- **[Machine_Learning_Housing_Corp](https://github.com/AdilShamim8/Machine_Learning_Housing_Corp)** - Project that predicts median house values in Californian districts using various machine learning algorithms and dataset features
+- **[Movie Recommender System](https://github.com/AdilShamim8/Movie-Recommender-System)** - ML-powered system offering personalized movie suggestions
 
 ### Computer Vision & Deep Learning
 - **[Gesture Volume Control](https://github.com/AdilShamim8/Gesture-Volume-Control)** - Control your computer's volume with hand gestures using OpenCV and MediaPipe
@@ -102,10 +102,10 @@ print("The best code is not just functional, but also maintainable, scalable, an
 - **[Cat vs Dog Classification](https://github.com/AdilShamim8/Cat_Vs_Dog_Image_Classification_Project)** - CNN-based deep learning model for distinguishing cats from dogs
 
 ### Data Analysis & Visualization
+- **[Vendor-Performance-Analysis](https://github.com/AdilShamim8/Vendor-Performance-Analysis)** - Comprehensive analysis of vendor performance metrics to optimize procurement decisions and supply chain management
 - **[COVID-19 Global Impact Analysis](https://github.com/AdilShamim8/COVID-19_Global_Impact_Analysis)** - Comprehensive analysis of COVID-19's global impact using WHO data
 - **[Olympic History Analysis](https://github.com/AdilShamim8/Olympic_History_Analysis)** - Visualization of 120 years of Olympic achievements
 - **[Study Abroad Dataset](https://github.com/AdilShamim8/Study_Abroad)** - Interactive analysis of global study program costs across countries and universities
-- **[Vendor-Performance-Analysis](https://github.com/AdilShamim8/Vendor-Performance-Analysis)** - Comprehensive analysis of vendor performance metrics to optimize procurement decisions and supply chain management
 
 ### NLP & Text Analysis
 - **[Resume Screening](https://github.com/AdilShamim8/Resume-Screening)** - AI-powered tool for efficient and fair candidate selection
@@ -115,12 +115,12 @@ print("The best code is not just functional, but also maintainable, scalable, an
 
 ### Web Development
 - **[Toolly](https://github.com/AdilShamim8/Toolly)** - Time-saving AI-powered productivity tool
+- **[Toolly_Studio](https://github.com/AdilShamim8/Toolly_Studio)** - A powerful Streamlit app for generating professional product ads using Bria AI's advanced image generation and manipulation APIs
 - **[Echo AI](https://github.com/AdilShamim8/Echo_AI)** - Web-based interactive chatbot with customizable interface
 - **[Harvard Website](https://github.com/AdilShamim8/Harvard-Website)** - Clean, responsive website inspired by Harvard's design
 - **[100 Simple Websites](https://github.com/AdilShamim8/100-Simple-Websites)** - Collection of beginner-friendly web development projects
 - **[Personal Website](https://github.com/AdilShamim8/AdilShamim8.github.io)** - My portfolio showcasing projects and insights on technology and AI
 - **[LearnEnglish](https://github.com/AdilShamim8/LearnEnglish)** - A beautiful, interactive web application designed to help Bengali speakers learn the 3000 most common English words with translations, meanings, and examples
-- **[Toolly_Studio](https://github.com/AdilShamim8/Toolly_Studio)** - A powerful Streamlit app for generating professional product ads using Bria AI's advanced image generation and manipulation APIs
 ##  Connect With Me
 
 <p align="center">
