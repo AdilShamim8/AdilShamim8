@@ -9,7 +9,7 @@ Transforming complex data into actionable insights through machine learning and 
 </p>
 
 <p align="center">
-<a href="https://drive.google.com/file/d/14XEqm35QHDPWXdQ-Sbh5JcQKhgkkld_6/view">  
+<a href="https://adilshamim.me/Resume/AdilShamim_ML_Engineer_Resume.pdf">  
     <img src="https://img.shields.io/badge/Resume-red?style=for-the-badge&logo=adobe">  
 </a>
 <a href="https://adilshamim8.github.io/">  
