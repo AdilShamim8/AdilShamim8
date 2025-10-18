@@ -48,7 +48,7 @@ print("The best code is not just functional, but also maintainable, scalable, an
     </td>
   </tr>
   <tr>
-    <td valign="center" width="25%">
+    <td valign="middle" width="25%">
       <h3>Data Science</h3>
       <p>
         <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
@@ -58,16 +58,6 @@ print("The best code is not just functional, but also maintainable, scalable, an
         <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
       </p>
     </td>
-    <!-- <td valign="top" width="25%">
-      <h3>Web Technologies</h3>
-      <p>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/RESTful%20APIs-005571?style=flat-square" /> 
-      </p>
-    </td> -->
   </tr>
 </table>
 
