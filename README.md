@@ -48,7 +48,7 @@ print("The best code is not just functional, but also maintainable, scalable, an
     </td>
   </tr>
   <tr>
-    <td valign="top" width="25%">
+    <td valign="top" width="50%">
       <h3>Data Science</h3>
       <p>
         <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
