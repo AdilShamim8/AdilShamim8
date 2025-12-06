@@ -67,6 +67,7 @@ print("The best code is not just functional, but also maintainable, scalable, an
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AdilShamim8&show_icons=true&count_private=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AdilShamim8&theme=tokyonight" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdilShamim8&theme=tokyonight&layout=compact&langs_count=8" />
 </p>
@@ -110,8 +111,8 @@ print("The best code is not just functional, but also maintainable, scalable, an
 - **[100 Simple Websites](https://github.com/AdilShamim8/100-Simple-Websites)** - Collection of beginner-friendly web development projects
 - **[Personal Website](https://github.com/AdilShamim8/AdilShamim8.github.io)** - My portfolio showcasing projects and insights on technology and AI
 - **[LearnEnglish](https://github.com/AdilShamim8/LearnEnglish)** - A beautiful, interactive web application designed to help Bengali speakers learn the 3000 most common English words with translations, meanings, and examples
+  
 ##  Connect With Me
-
 <p align="center">
   <a href="https://linkedin.com/in/adilshamim8">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
