@@ -64,27 +64,14 @@ print("The best code is not just functional, but also maintainable, scalable, an
 ##  GitHub Stats
 
 <p align="center">
-
-  <img
-    width="48%"
-    alt="GitHub Stats"
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AdilShamim8&show_icons=true&theme=tokyonight"
-  />
-
-  <img
-    width="48%"
-    alt="GitHub Streak"
-    src="https://streak-stats.demolab.com?user=AdilShamim8&theme=tokyonight"
-  />
-
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AdilShamim8&show_icons=true&count_private=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AdilShamim8&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img
-    alt="Top Languages"
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AdilShamim8&layout=compact&theme=tokyonight"
-  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdilShamim8&theme=tokyonight&layout=compact&langs_count=8" />
 </p>
+
 
 
 
