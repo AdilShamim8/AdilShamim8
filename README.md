@@ -63,14 +63,31 @@ print("The best code is not just functional, but also maintainable, scalable, an
 
 ##  GitHub Stats
 
+<!-- GitHub Stats -->
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AdilShamim8&show_icons=true&count_private=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AdilShamim8&theme=tokyonight" />
+  <a href="https://github.com/AdilShamim8" target="_blank" rel="noopener">
+    <img
+      width="48%"
+      alt="AdilShamim8's GitHub Stats"
+      src="https://github-readme-stats.vercel.app/api?username=AdilShamim8&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" />
+  </a>
+
+  <a href="https://github.com/AdilShamim8" target="_blank" rel="noopener">
+    <img
+      width="48%"
+      alt="AdilShamim8's GitHub Streak"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=AdilShamim8&theme=tokyonight" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdilShamim8&theme=tokyonight&layout=compact&langs_count=8" />
+  <a href="https://github.com/AdilShamim8" target="_blank" rel="noopener">
+    <img
+      alt="Top Languages"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdilShamim8&theme=tokyonight&layout=compact&langs_count=8" />
+  </a>
 </p>
+
 
 ##  Featured Projects
 
