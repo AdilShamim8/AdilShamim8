@@ -36,6 +36,7 @@ print("The best code is not just functional, but also maintainable, scalable, an
         <img src="https://img.shields.io/badge/NLP-003B57?style=flat-square" />
       </p>
     </td>
+      
     <td valign="top" width="25%">
       <h3>Development</h3>
       <p>
@@ -48,6 +49,7 @@ print("The best code is not just functional, but also maintainable, scalable, an
     </td>
   </tr>
   <tr>
+      
     <td valign="top" width="25%">
       <h3>Data Science</h3>
       <p>
@@ -67,6 +69,7 @@ print("The best code is not just functional, but also maintainable, scalable, an
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AdilShamim8&show_icons=true&count_private=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AdilShamim8&theme=tokyonight" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdilShamim8&theme=tokyonight&layout=compact&langs_count=8" />
 </p>
