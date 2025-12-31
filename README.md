@@ -72,8 +72,6 @@ print("The best code is not just functional, but also maintainable, scalable, an
 </p>
 
 
-
-
 ##  Featured Projects
 
 ### Machine Learning & AI
