@@ -72,7 +72,6 @@ print("The best code is not just functional, but also maintainable, scalable, an
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdilShamim8&theme=tokyonight&layout=compact&langs_count=8" />
 </p>
 
-
 ##  Featured Projects
 
 ### Machine Learning & AI
