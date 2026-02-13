@@ -112,6 +112,9 @@ print("The best code is not just functional, but also maintainable, scalable, an
 - **[100 Simple Websites](https://github.com/AdilShamim8/100-Simple-Websites)** - Collection of beginner-friendly web development projects
 - **[Personal Website](https://github.com/AdilShamim8/AdilShamim8.github.io)** - My portfolio showcasing projects and insights on technology and AI
 - **[LearnEnglish](https://github.com/AdilShamim8/LearnEnglish)** - A beautiful, interactive web application designed to help Bengali speakers learn the 3000 most common English words with translations, meanings, and examples
+
+
+> ### `Kaggle Competitions-A collection of my Kaggle competition solutions.:` https://github.com/AdilShamim8/Kaggle_Competitions
   
 ##  Connect With Me
 <p align="center">
