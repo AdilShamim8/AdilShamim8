@@ -137,10 +137,3 @@ print("The best code is not just functional, but also maintainable, scalable, an
   <img src="https://komarev.com/ghpvc/?username=AdilShamim8&color=blueviolet&style=flat-square&label=Profile+Views" />
   
 </p>
-
-
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40" fill="none">
-  <rect width="40" height="40" rx="8" fill="#0070c4"/>
-  <text x="50%" y="55%" text-anchor="middle" dominant-baseline="middle"
-        fill="white" font-family="system-ui" font-weight="700" font-size="22">Q</text>
-</svg>
