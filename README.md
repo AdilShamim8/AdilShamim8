@@ -147,7 +147,7 @@ print("The best code is not just functional, but also maintainable, scalable, an
 
 
 
-```html
+
 <p align="center">
 <a href="https://github.com/AdilShamim8">
     <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&duration=2000&pause=1000&color=4682B4&center=true&multiline=true&width=650&height=80&lines=Adil+Shamim;Machine+Learning+Engineer+%7C+Web+Developer+%7C+Deep+Learning+Explorer" alt="Typing SVG" />
