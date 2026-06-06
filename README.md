@@ -11,13 +11,10 @@ Building systems that work at scale, not just in notebooks.
 </p>
 
 <p align="center">
-<a href="https://www.adilshamim.me/">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white">
-</a>
 <a href="https://adilshamim8.github.io/assets/docs/AdilShamim_AI_Engineer_Resume.pdf">
     <img src="https://img.shields.io/badge/Resume-red?style=for-the-badge&logo=adobe">
 </a>
-<a href="https://adilshamim8.github.io/">
+<a href="[https://adilshamim8.github.io/](https://www.adilshamim.me/)">
     <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white">
 </a>
 </p>
