@@ -1,11 +1,13 @@
 <p align="center">
 <a href="https://github.com/AdilShamim8">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&duration=2000&pause=1000&color=4682B4&center=true&multiline=true&width=700&height=80&lines=Adil+Shamim;ML%2FAI+Engineer+%7C+Bengali+Speech+AI+%7C+Kaggle+Top+1%25" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&duration=3000&pause=1000&color=4682B4&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Adil+Shamim;AI+Engineer+%7C+Production+ML+Systems+%7C+Kaggle+Top+1%25" alt="Typing SVG" />
 </a>
 </p>
 
 <p align="center">
-First-author Bengali speech AI researcher. Production ML systems engineer. Building at the rare intersection of <b>deep learning</b>, <b>low-resource NLP</b>, and <b>Bengali ASR</b> — one of the rarest engineering specializations in the world.
+AI engineer specialized in production ML systems and generative AI infrastructure.<br>
+Research depth in Bengali speech AI and low-resource NLP — one of the rarest intersections in the field.<br>
+Building systems that work at scale, not just in notebooks.
 </p>
 
 <p align="center">
@@ -21,7 +23,7 @@ First-author Bengali speech AI researcher. Production ML systems engineer. Build
 </p>
 
 ```python
-# Bengali ASR · Speaker Diarization · RAG Pipelines · Agentic Systems · Production ML
+# Production ML · Generative AI · Agentic Systems · Bengali Speech AI · Low-Resource NLP
 print("Build real systems. Ship to production. Compound the learning.")
 ```
 
@@ -34,11 +36,12 @@ print("Build real systems. Ship to production. Compound the learning.")
     <td valign="top" width="33%">
       <h3>Machine Learning</h3>
       <p>
-        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
         <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
         <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
-        <img src="https://img.shields.io/badge/XGBoost-337AB7?style=flat-square&logo=xgboost&logoColor=white" />
+        <img src="https://img.shields.io/badge/XGBoost-337AB7?style=flat-square" />
         <img src="https://img.shields.io/badge/Computer%20Vision-0078D7?style=flat-square" />
         <img src="https://img.shields.io/badge/NLP-003B57?style=flat-square" />
       </p>
@@ -53,52 +56,19 @@ print("Build real systems. Ship to production. Compound the learning.")
         <img src="https://img.shields.io/badge/RAG-00897B?style=flat-square" />
         <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square" />
         <img src="https://img.shields.io/badge/FAISS-0078D7?style=flat-square" />
-        <img src="https://img.shields.io/badge/Prompt%20Engineering-6B48FF?style=flat-square" />
         <img src="https://img.shields.io/badge/Agentic%20AI-FF6F00?style=flat-square" />
+        <img src="https://img.shields.io/badge/Prompt%20Engineering-6B48FF?style=flat-square" />
       </p>
     </td>
     <td valign="top" width="33%">
       <h3>MLOps & Production</h3>
       <p>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
         <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" />
         <img src="https://img.shields.io/badge/ZenML-431D93?style=flat-square" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
         <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
         <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="33%">
-      <h3>Development</h3>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-        <img src="https://img.shields.io/badge/REST%20API-0078D7?style=flat-square" />
-      </p>
-    </td>
-    <td valign="top" width="33%">
-      <h3>Data Science</h3>
-      <p>
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-        <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-        <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
-        <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square" />
-        <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" />
-        <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
-      </p>
-    </td>
-    <td valign="top" width="33%">
-      <h3>Speech & Audio AI</h3>
-      <p>
-        <img src="https://img.shields.io/badge/Bengali%20ASR-00897B?style=flat-square" />
-        <img src="https://img.shields.io/badge/Speaker%20Diarization-6B48FF?style=flat-square" />
-        <img src="https://img.shields.io/badge/Whisper-412991?style=flat-square&logo=openai&logoColor=white" />
-        <img src="https://img.shields.io/badge/PyAnnote-EE4C2C?style=flat-square" />
-        <img src="https://img.shields.io/badge/Low--Resource%20NLP-003B57?style=flat-square" />
       </p>
     </td>
   </tr>
@@ -109,70 +79,72 @@ print("Build real systems. Ship to production. Compound the learning.")
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AdilShamim8&show_icons=true&count_private=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AdilShamim8&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AdilShamim8&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=AdilShamim8&theme=tokyonight&hide_border=true" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdilShamim8&theme=tokyonight&layout=compact&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdilShamim8&theme=tokyonight&layout=compact&langs_count=8&hide_border=true" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### Machine Learning & AI
-- **[100 AI Machine Learning Deep Learning Projects](https://github.com/AdilShamim8/100-AI-ML-DL-Projects)** - Curated collection of 100 production-ready AI solutions spanning computer vision, NLP, and deep learning
-- **[ML Roadmap and Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes)** - Curated collection of ML resources, notes, and learning paths
-- **[GenAI-Roadmap-with-Notes-Using-LangChain](https://github.com/AdilShamim8/GenAI-Roadmap-with-Notes-Using-LangChain)** - A comprehensive learning path and practical guide for Generative AI development with hands-on LangChain implementations and detailed notes
-- **[Agentic-AI-Roadmap-with-Notes-Using-LangGraph](https://github.com/AdilShamim8/Agentic-AI-Roadmap-with-Notes-Using-LangGraph)** - End-to-end agentic AI learning roadmap with structured notes and hands-on implementations using LangGraph
-- **[Production-grade-RAG](https://github.com/AdilShamim8/Production-grade-RAG)** - Production-ready Retrieval-Augmented Generation API built with FastAPI, LangChain, OpenAI, and Qdrant
-- **[Training Data Bot](https://github.com/AdilShamim8/Training_Data_Bot)** - Automated pipeline that converts raw documents (PDF, text, URLs) into clean, quality-scored LLM fine-tuning datasets with support for QA, classification, and summarization task generation
-- **[NeuroBridge](https://github.com/AdilShamim8/NeuroBridge)** - Middleware layer bridging LLMs with real-world applications for seamless agentic integration
-- **[ML-Algorithm-Library](https://github.com/AdilShamim8/ML-Algorithm-Library)** - Pure-Python implementations of fundamental machine learning algorithms for hands-on learning and experimentation
-- **[Prices_Predictor_System](https://github.com/AdilShamim8/Prices_Predictor_System)** - Building an End-to-End Machine Learning Pipeline for Price Prediction using ZenML and MLflow
-- **[GPT-2-Rebuild-nanoGPT](https://github.com/AdilShamim8/GPT-2-Rebuild-nanoGPT)** - A beginner-friendly, step-by-step reproduction of nanoGPT and GPT-2, inspired by Karpathy's lecture, for learning and experimentation with transformer language models
-- **[Book Recommender System](https://github.com/AdilShamim8/Book-Recommender-System)** - Personalized book recommendation engine based on user reading preferences and habits
-- **[Laptop Price Predictor](https://github.com/AdilShamim8/Laptop-Price-Predictor)** - Regression model that predicts laptop prices based on specifications
-- **[Stock Price Prediction](https://github.com/AdilShamim8/Stock_Price_Prediction)** - LSTM-based model for predicting stock prices using historical data
-- **[Machine_Learning_Housing_Corp](https://github.com/AdilShamim8/Machine_Learning_Housing_Corp)** - Project that predicts median house values in Californian districts using various machine learning algorithms and dataset features
-- **[Movie Recommender System](https://github.com/AdilShamim8/Movie-Recommender-System)** - ML-powered system offering personalized movie suggestions
+### Generative AI & LLM Engineering
+- **[Production-grade-RAG](https://github.com/AdilShamim8/Production-grade-RAG)** — Production RAG API built on FastAPI, LangChain, OpenAI, and Qdrant with retrieval evaluation and query monitoring
+- **[Training Data Bot](https://github.com/AdilShamim8/Training_Data_Bot)** — Automated pipeline converting raw documents into quality-scored LLM fine-tuning datasets for QA, classification, and summarization tasks
+- **[NeuroBridge](https://github.com/AdilShamim8/NeuroBridge)** — Middleware layer connecting LLMs to external systems and APIs for seamless production agentic integration
+- **[GPT-2-Rebuild-nanoGPT](https://github.com/AdilShamim8/GPT-2-Rebuild-nanoGPT)** — Step-by-step GPT-2 reconstruction from scratch, following Karpathy's methodology for deep architectural understanding
+- **[GenAI-Roadmap-with-Notes-Using-LangChain](https://github.com/AdilShamim8/GenAI-Roadmap-with-Notes-Using-LangChain)** — Structured GenAI learning path with hands-on LangChain implementations and architectural notes
+- **[Agentic-AI-Roadmap-with-Notes-Using-LangGraph](https://github.com/AdilShamim8/Agentic-AI-Roadmap-with-Notes-Using-LangGraph)** — End-to-end agentic AI curriculum with LangGraph implementations, from single agents to multi-agent orchestration
 
-### Computer Vision & Deep Learning
-- **[Gesture Volume Control](https://github.com/AdilShamim8/Gesture-Volume-Control)** - Control your computer's volume with hand gestures using OpenCV and MediaPipe
-- **[Posture Detection](https://github.com/AdilShamim8/Posture-detection)** - Real-time pose detection with customizable face overlays
-- **[Cat vs Dog Classification](https://github.com/AdilShamim8/Cat_Vs_Dog_Image_Classification_Project)** - CNN-based deep learning model for distinguishing cats from dogs
+### Machine Learning Systems
+- **[100 AI Machine Learning Deep Learning Projects](https://github.com/AdilShamim8/100-AI-ML-DL-Projects)** — 100 production-oriented AI solutions spanning computer vision, NLP, and deep learning
+- **[Prices_Predictor_System](https://github.com/AdilShamim8/Prices_Predictor_System)** — End-to-end ML pipeline for price prediction with ZenML orchestration and MLflow experiment tracking
+- **[ML-Algorithm-Library](https://github.com/AdilShamim8/ML-Algorithm-Library)** — Pure-Python implementations of core ML algorithms — built to understand, not just use
+- **[ML Roadmap and Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes)** — Curated ML learning path with structured notes from fundamentals through advanced topics
+- **[Book Recommender System](https://github.com/AdilShamim8/Book-Recommender-System)** — Collaborative and content-based recommendation engine using user reading history
+- **[Laptop Price Predictor](https://github.com/AdilShamim8/Laptop-Price-Predictor)** — Regression model predicting laptop prices across hardware configurations
+- **[Stock Price Prediction](https://github.com/AdilShamim8/Stock_Price_Prediction)** — LSTM-based temporal model for stock price forecasting on historical data
+- **[Machine_Learning_Housing_Corp](https://github.com/AdilShamim8/Machine_Learning_Housing_Corp)** — California housing value prediction benchmarked across multiple ML approaches
+- **[Movie Recommender System](https://github.com/AdilShamim8/Movie-Recommender-System)** — Personalized movie recommendations using content-based and collaborative filtering
+
+### NLP & Speech AI
+- **[BUET-CSE-Fest-2026](https://github.com/AdilShamim8/BUET-CSE-Fest-2026)** ⭐ — Bengali ASR and speaker diarization systems built for BUET CSE Fest 2026 — private WER 0.37967 (Rank #28), private DER 0.28625 (Rank #19)
+- **[Resume Screening](https://github.com/AdilShamim8/Resume-Screening)** — NLP pipeline for automated, bias-aware candidate evaluation
+- **[Sentiment Analysis](https://github.com/AdilShamim8/Sentiment-analysis)** — Text sentiment classification deployed as an interactive Streamlit application
+- **[Email Spam Classifier](https://github.com/AdilShamim8/Email-Spam-Classifier)** — High-accuracy spam detection using ML with NLP preprocessing
+- **[Prompt Engineering](https://github.com/AdilShamim8/Prompt-Engineering)** — Curated resources for systematic prompt design and optimization
+
+### Computer Vision
+- **[Gesture Volume Control](https://github.com/AdilShamim8/Gesture-Volume-Control)** — Real-time hand gesture volume control using OpenCV and MediaPipe
+- **[Posture Detection](https://github.com/AdilShamim8/Posture-detection)** — Pose estimation system with configurable face overlay and real-time feedback
+- **[Cat vs Dog Classification](https://github.com/AdilShamim8/Cat_Vs_Dog_Image_Classification_Project)** — CNN binary image classifier trained and benchmarked on the standard dataset
 
 ### Data Analysis & Visualization
-- **[QuantScope](https://github.com/AdilShamim8/QuantScope)** - Quantitative stock analysis platform for data-driven market research and financial decision making
-- **[Vendor-Performance-Analysis](https://github.com/AdilShamim8/Vendor-Performance-Analysis)** - Comprehensive analysis of vendor performance metrics to optimize procurement decisions and supply chain management
-- **[COVID-19 Global Impact Analysis](https://github.com/AdilShamim8/COVID-19_Global_Impact_Analysis)** - Comprehensive analysis of COVID-19's global impact using WHO data
-- **[Olympic History Analysis](https://github.com/AdilShamim8/Olympic_History_Analysis)** - Visualization of 120 years of Olympic achievements
-- **[Study Abroad Dataset](https://github.com/AdilShamim8/Study_Abroad)** - Interactive analysis of global study program costs across countries and universities
+- **[QuantScope](https://github.com/AdilShamim8/QuantScope)** — Quantitative stock analysis platform combining fundamental and technical data for investment research
+- **[Vendor-Performance-Analysis](https://github.com/AdilShamim8/Vendor-Performance-Analysis)** — Vendor metric analysis for procurement optimization and supply chain decision-making
+- **[COVID-19 Global Impact Analysis](https://github.com/AdilShamim8/COVID-19_Global_Impact_Analysis)** — Statistical analysis of WHO global COVID-19 data across regions and time periods
+- **[Olympic History Analysis](https://github.com/AdilShamim8/Olympic_History_Analysis)** — Visualization of 120 years of Olympic performance and national achievement trends
+- **[Study Abroad Dataset](https://github.com/AdilShamim8/Study_Abroad)** — Interactive cost comparison for global study programs by country and institution
 
-### NLP & Text Analysis
-- **[BUET-CSE-Fest-2026](https://github.com/AdilShamim8/BUET-CSE-Fest-2026)** - Bengali automatic speech recognition and speaker diarization system built for BUET CSE Fest 2026
-- **[Resume Screening](https://github.com/AdilShamim8/Resume-Screening)** - AI-powered tool for efficient and fair candidate selection
-- **[Sentiment Analysis](https://github.com/AdilShamim8/Sentiment-analysis)** - Interactive NLP application classifying text sentiment via Streamlit
-- **[Email Spam Classifier](https://github.com/AdilShamim8/Email-Spam-Classifier)** - ML and NLP model for detecting spam emails with high accuracy
-- **[Prompt Engineering](https://github.com/AdilShamim8/Prompt-Engineering)** - Resource collection for mastering AI prompt crafting and optimization
+### Tools & Web Applications
+- **[PaperMap](https://github.com/AdilShamim8/PaperMap)** — Visual library transforming landmark AI research papers into structured, interactive educational experiences
+- **[Toolly](https://github.com/AdilShamim8/Toolly)** — AI-powered productivity platform powering toolly.tech
+- **[Toolly_Studio](https://github.com/AdilShamim8/Toolly_Studio)** — Streamlit app for professional product ad generation using Bria AI's image APIs
+- **[Echo AI](https://github.com/AdilShamim8/Echo_AI)** — Web-based interactive chatbot with a customizable interface
+- **[Harvard Website](https://github.com/AdilShamim8/Harvard-Website)** — Clean, responsive portfolio site built on Harvard's visual design language
+- **[100 Simple Websites](https://github.com/AdilShamim8/100-Simple-Websites)** — Progressive front-end projects covering HTML, CSS, and JavaScript fundamentals
+- **[Personal Website](https://github.com/AdilShamim8/AdilShamim8.github.io)** — Portfolio at adilshamim8.github.io showcasing projects and technical writing
+- **[LearnEnglish](https://github.com/AdilShamim8/LearnEnglish)** — Interactive Bengali-to-English vocabulary platform covering the 3,000 most common English words
 
-### Web Development
-- **[PaperMap](https://github.com/AdilShamim8/PaperMap)** - Interactive paper library that transforms landmark AI research papers into visual, engaging educational experiences
-- **[Toolly](https://github.com/AdilShamim8/Toolly)** - Time-saving AI-powered productivity tool
-- **[Toolly_Studio](https://github.com/AdilShamim8/Toolly_Studio)** - A powerful Streamlit app for generating professional product ads using Bria AI's advanced image generation and manipulation APIs
-- **[Echo AI](https://github.com/AdilShamim8/Echo_AI)** - Web-based interactive chatbot with customizable interface
-- **[Harvard Website](https://github.com/AdilShamim8/Harvard-Website)** - Clean, responsive website inspired by Harvard's design
-- **[100 Simple Websites](https://github.com/AdilShamim8/100-Simple-Websites)** - Collection of beginner-friendly web development projects
-- **[Personal Website](https://github.com/AdilShamim8/AdilShamim8.github.io)** - My portfolio showcasing projects and insights on technology and AI
-- **[LearnEnglish](https://github.com/AdilShamim8/LearnEnglish)** - A beautiful, interactive web application designed to help Bengali speakers learn the 3000 most common English words with translations, meanings, and examples
-
-> ### `Kaggle Competitions — A collection of my Kaggle competition solutions:` [Link](https://github.com/AdilShamim8/Kaggle_Competitions)
+> **`Kaggle Competition Solutions:`** [AdilShamim8/Kaggle_Competitions](https://github.com/AdilShamim8/Kaggle_Competitions)
 
 ---
 
 ## 🧑‍💻 Learn by Doing. Become an AI Engineer.
 
-> **5 projects. Real systems. Zero hand-holding.**
+> **5 projects. Real systems. Zero hand-holding.**  
 > A hands-on curriculum for engineers who want to go from understanding LLMs to building production AI systems — step by step, project by project.
 
 <table>
