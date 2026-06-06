@@ -1,27 +1,33 @@
 <p align="center">
 <a href="https://github.com/AdilShamim8">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&duration=2000&pause=1000&color=4682B4&center=true&multiline=true&width=650&height=80&lines=Adil+Shamim;Machine+Learning+Engineer+%7C+Web+Developer+%7C+Deep+Learning+Explorer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&duration=2000&pause=1000&color=4682B4&center=true&multiline=true&width=700&height=80&lines=Adil+Shamim;ML%2FAI+Engineer+%7C+Bengali+Speech+AI+%7C+Kaggle+Top+1%25" alt="Typing SVG" />
 </a>
 </p>
 
 <p align="center">
-Transforming complex data into actionable insights through machine learning and deep learning solutions.
+First-author Bengali speech AI researcher. Production ML systems engineer. Building at the rare intersection of <b>deep learning</b>, <b>low-resource NLP</b>, and <b>Bengali ASR</b> — one of the rarest engineering specializations in the world.
 </p>
 
 <p align="center">
-<a href="https://adilshamim8.github.io/assets/docs/AdilShamim_AI_Engineer_Resume.pdf">  
-    <img src="https://img.shields.io/badge/Resume-red?style=for-the-badge&logo=adobe">  
+<a href="https://www.adilshamim.me/">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white">
 </a>
-<a href="https://adilshamim8.github.io/">  
-    <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white">  
+<a href="https://adilshamim8.github.io/assets/docs/AdilShamim_AI_Engineer_Resume.pdf">
+    <img src="https://img.shields.io/badge/Resume-red?style=for-the-badge&logo=adobe">
+</a>
+<a href="https://adilshamim8.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white">
 </a>
 </p>
 
 ```python
-print("The best code is not just functional, but also maintainable, scalable, and elegant.")
+# Bengali ASR · Speaker Diarization · RAG Pipelines · Agentic Systems · Production ML
+print("Build real systems. Ship to production. Compound the learning.")
 ```
 
-##  Tech Stack
+---
+
+## 🛠️ Tech Stack
 
 <table>
   <tr>
@@ -98,8 +104,9 @@ print("The best code is not just functional, but also maintainable, scalable, an
   </tr>
 </table>
 
+---
 
-##  GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AdilShamim8&show_icons=true&count_private=true&theme=tokyonight" />
@@ -109,8 +116,9 @@ print("The best code is not just functional, but also maintainable, scalable, an
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdilShamim8&theme=tokyonight&layout=compact&langs_count=8" />
 </p>
 
+---
 
-##  Featured Projects
+## 🚀 Featured Projects
 
 ### Machine Learning & AI
 - **[100 AI Machine Learning Deep Learning Projects](https://github.com/AdilShamim8/100-AI-ML-DL-Projects)** - Curated collection of 100 production-ready AI solutions spanning computer vision, NLP, and deep learning
@@ -118,7 +126,7 @@ print("The best code is not just functional, but also maintainable, scalable, an
 - **[GenAI-Roadmap-with-Notes-Using-LangChain](https://github.com/AdilShamim8/GenAI-Roadmap-with-Notes-Using-LangChain)** - A comprehensive learning path and practical guide for Generative AI development with hands-on LangChain implementations and detailed notes
 - **[Agentic-AI-Roadmap-with-Notes-Using-LangGraph](https://github.com/AdilShamim8/Agentic-AI-Roadmap-with-Notes-Using-LangGraph)** - End-to-end agentic AI learning roadmap with structured notes and hands-on implementations using LangGraph
 - **[Production-grade-RAG](https://github.com/AdilShamim8/Production-grade-RAG)** - Production-ready Retrieval-Augmented Generation API built with FastAPI, LangChain, OpenAI, and Qdrant
--  **[Training Data Bot](https://github.com/AdilShamim8/Training_Data_Bot)** - Automated pipeline that converts raw documents (PDF, text, URLs) into clean, quality-scored LLM fine-tuning datasets with support for QA, classification, and summarization task generation
+- **[Training Data Bot](https://github.com/AdilShamim8/Training_Data_Bot)** - Automated pipeline that converts raw documents (PDF, text, URLs) into clean, quality-scored LLM fine-tuning datasets with support for QA, classification, and summarization task generation
 - **[NeuroBridge](https://github.com/AdilShamim8/NeuroBridge)** - Middleware layer bridging LLMs with real-world applications for seamless agentic integration
 - **[ML-Algorithm-Library](https://github.com/AdilShamim8/ML-Algorithm-Library)** - Pure-Python implementations of fundamental machine learning algorithms for hands-on learning and experimentation
 - **[Prices_Predictor_System](https://github.com/AdilShamim8/Prices_Predictor_System)** - Building an End-to-End Machine Learning Pipeline for Price Prediction using ZenML and MLflow
@@ -158,11 +166,71 @@ print("The best code is not just functional, but also maintainable, scalable, an
 - **[Personal Website](https://github.com/AdilShamim8/AdilShamim8.github.io)** - My portfolio showcasing projects and insights on technology and AI
 - **[LearnEnglish](https://github.com/AdilShamim8/LearnEnglish)** - A beautiful, interactive web application designed to help Bengali speakers learn the 3000 most common English words with translations, meanings, and examples
 
+> ### `Kaggle Competitions — A collection of my Kaggle competition solutions:` [Link](https://github.com/AdilShamim8/Kaggle_Competitions)
 
-> ### `Kaggle Competitions-A collection of my Kaggle competition solutions.:` [Link](https://github.com/AdilShamim8/Kaggle_Competitions)
-  
-##  Connect With Me
+---
+
+## 🧑‍💻 Learn by Doing. Become an AI Engineer.
+
+> **5 projects. Real systems. Zero hand-holding.**
+> A hands-on curriculum for engineers who want to go from understanding LLMs to building production AI systems — step by step, project by project.
+
+<table>
+  <thead>
+    <tr>
+      <th align="center">Step</th>
+      <th>Project</th>
+      <th>What You Build</th>
+      <th>Core Skills</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><b>101</b></td>
+      <td><a href="https://github.com/AdilShamim8/LLM-Playground-101"><b>LLM Playground</b></a></td>
+      <td>An interactive environment to experiment with language models</td>
+      <td><code>LLM APIs</code> <code>Prompt Engineering</code> <code>Streaming</code></td>
+    </tr>
+    <tr>
+      <td align="center"><b>102</b></td>
+      <td><a href="https://github.com/AdilShamim8/Customer-Support-Chatbot-102"><b>Customer Support Chatbot</b></a></td>
+      <td>A production-ready support bot with memory and context</td>
+      <td><code>RAG</code> <code>Memory</code> <code>Conversation Design</code></td>
+    </tr>
+    <tr>
+      <td align="center"><b>103</b></td>
+      <td><a href="https://github.com/AdilShamim8/Ask-the-Web-103"><b>Ask the Web</b></a></td>
+      <td>An LLM agent with real-time web access and grounding</td>
+      <td><code>Tool Use</code> <code>Web Search</code> <code>Grounding</code></td>
+    </tr>
+    <tr>
+      <td align="center"><b>104</b></td>
+      <td><a href="https://github.com/AdilShamim8/Deep-Research-104"><b>Deep Research</b></a></td>
+      <td>A multi-step autonomous research and synthesis system</td>
+      <td><code>Agentic Workflows</code> <code>Planning</code> <code>Synthesis</code></td>
+    </tr>
+    <tr>
+      <td align="center"><b>105</b></td>
+      <td><a href="https://github.com/AdilShamim8/Multi-Modal-105"><b>Multi-Modal AI</b></a></td>
+      <td>A system that processes vision, audio, and text together</td>
+      <td><code>Vision</code> <code>Audio</code> <code>Cross-modal Reasoning</code></td>
+    </tr>
+  </tbody>
+</table>
+
+> Each project builds on the last. Start at 101. Ship something real at every step.
+
+---
+
+## 🤝 Connect With Me
+
 <p align="center">
+  <a href="https://www.adilshamim.me/">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
+  <a href="https://adilshamim8.medium.com/">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
   <a href="https://linkedin.com/in/adilshamim8">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
