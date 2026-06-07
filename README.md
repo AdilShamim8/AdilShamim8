@@ -26,7 +26,7 @@ print("Build real systems. Ship to production. Compound the learning.")
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <table>
   <tr>
@@ -73,7 +73,7 @@ print("Build real systems. Ship to production. Compound the learning.")
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AdilShamim8&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
@@ -85,7 +85,7 @@ print("Build real systems. Ship to production. Compound the learning.")
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### Generative AI & LLM Engineering
 - **[Production-grade-RAG](https://github.com/AdilShamim8/Production-grade-RAG)** — Production RAG API built on FastAPI, LangChain, OpenAI, and Qdrant with retrieval evaluation and query monitoring
@@ -139,7 +139,7 @@ print("Build real systems. Ship to production. Compound the learning.")
 
 ---
 
-## 🧑‍💻 Learn by Doing. Become an AI Engineer.
+## Learn by Doing. Become an AI Engineer.
 
 > **5 projects. Real systems. Zero hand-holding.**  
 > A hands-on curriculum for engineers who want to go from understanding LLMs to building production AI systems — step by step, project by project.
@@ -191,7 +191,7 @@ print("Build real systems. Ship to production. Compound the learning.")
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="https://www.adilshamim.me/">
