@@ -192,7 +192,6 @@ print("Build real systems. Ship to production. Compound the learning.")
 ---
 
 ## Connect With Me
-
 <p align="center">
   <a href="https://www.adilshamim.me/">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
