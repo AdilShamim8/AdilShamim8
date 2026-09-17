@@ -95,8 +95,8 @@ print("Build real systems. Ship to production. Compound the learning.")
 - **[GenAI-Roadmap-with-Notes-Using-LangChain](https://github.com/AdilShamim8/GenAI-Roadmap-with-Notes-Using-LangChain)** — Structured GenAI learning path with hands-on LangChain implementations and architectural notes
 - **[Agentic-AI-Roadmap-with-Notes-Using-LangGraph](https://github.com/AdilShamim8/Agentic-AI-Roadmap-with-Notes-Using-LangGraph)** — End-to-end agentic AI curriculum with LangGraph implementations, from single agents to multi-agent orchestration
 - **[claude-research-excellence](https://github.com/AdilShamim8/claude-research-excellence)** — AI-powered research paper creation framework built for top-tier academic rigor
-- **[Agentic-RAG-Platform](https://github.com/AdilShamim8/Agentic-RAG-Platform)** — Reproducible, evaluated, secured, and deployable Agentic RAG platform for continuously changing organizational knowledge
-- **[Agentic-AI-Eval-Harness](https://github.com/AdilShamim8/Agentic-AI-Eval-Harness)** — Production-grade evaluation harness for agentic AI systems
+- **[Agentic-RAG-Platform](https://github.com/AdilShamim8/Agentic-RAG-Platform)** — ⭐ Reproducible, evaluated, secured, and deployable Agentic RAG platform for continuously changing organizational knowledge
+- **[Agentic-AI-Eval-Harness](https://github.com/AdilShamim8/Agentic-AI-Eval-Harness)** ⭐ — Production-grade evaluation harness for agentic AI systems
 - **[RAG-Roadmap-with-Notes-and-Projects](https://github.com/AdilShamim8/RAG-Roadmap-with-Notes-and-Projects)** — End-to-end learning path for Retrieval-Augmented Generation, from core concepts to agentic RAG systems and production deployment
 
 ### Machine Learning Systems
