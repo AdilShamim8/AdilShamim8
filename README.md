@@ -94,6 +94,10 @@ print("Build real systems. Ship to production. Compound the learning.")
 - **[GPT-2-Rebuild-nanoGPT](https://github.com/AdilShamim8/GPT-2-Rebuild-nanoGPT)** — Step-by-step GPT-2 reconstruction from scratch, following Karpathy's methodology for deep architectural understanding
 - **[GenAI-Roadmap-with-Notes-Using-LangChain](https://github.com/AdilShamim8/GenAI-Roadmap-with-Notes-Using-LangChain)** — Structured GenAI learning path with hands-on LangChain implementations and architectural notes
 - **[Agentic-AI-Roadmap-with-Notes-Using-LangGraph](https://github.com/AdilShamim8/Agentic-AI-Roadmap-with-Notes-Using-LangGraph)** — End-to-end agentic AI curriculum with LangGraph implementations, from single agents to multi-agent orchestration
+- **[claude-research-excellence](https://github.com/AdilShamim8/claude-research-excellence)** — AI-powered research paper creation framework built for top-tier academic rigor
+- **[Agentic-RAG-Platform](https://github.com/AdilShamim8/Agentic-RAG-Platform)** — Reproducible, evaluated, secured, and deployable Agentic RAG platform for continuously changing organizational knowledge
+- **[Agentic-AI-Eval-Harness](https://github.com/AdilShamim8/Agentic-AI-Eval-Harness)** — Production-grade evaluation harness for agentic AI systems
+- **[RAG-Roadmap-with-Notes-and-Projects](https://github.com/AdilShamim8/RAG-Roadmap-with-Notes-and-Projects)** — End-to-end learning path for Retrieval-Augmented Generation, from core concepts to agentic RAG systems and production deployment
 
 ### Machine Learning Systems
 - **[100 AI Machine Learning Deep Learning Projects](https://github.com/AdilShamim8/100-AI-ML-DL-Projects)** — 100 production-oriented AI solutions spanning computer vision, NLP, and deep learning
@@ -105,6 +109,7 @@ print("Build real systems. Ship to production. Compound the learning.")
 - **[Stock Price Prediction](https://github.com/AdilShamim8/Stock_Price_Prediction)** — LSTM-based temporal model for stock price forecasting on historical data
 - **[Machine_Learning_Housing_Corp](https://github.com/AdilShamim8/Machine_Learning_Housing_Corp)** — California housing value prediction benchmarked across multiple ML approaches
 - **[Movie Recommender System](https://github.com/AdilShamim8/Movie-Recommender-System)** — Personalized movie recommendations using content-based and collaborative filtering
+- **[50-Days-of-Machine-Learning](https://github.com/AdilShamim8/50-Days-of-Machine-Learning)** — An immersive 50-day project guiding learners through essential ML concepts with daily hands-on exercises
 
 ### NLP & Speech AI
 - **[BUET-CSE-Fest-2026](https://github.com/AdilShamim8/BUET-CSE-Fest-2026)** ⭐ — Bengali ASR and speaker diarization systems built for BUET CSE Fest 2026 — private WER 0.37967 (Rank #28), private DER 0.28625 (Rank #19)
@@ -124,16 +129,29 @@ print("Build real systems. Ship to production. Compound the learning.")
 - **[COVID-19 Global Impact Analysis](https://github.com/AdilShamim8/COVID-19_Global_Impact_Analysis)** — Statistical analysis of WHO global COVID-19 data across regions and time periods
 - **[Olympic History Analysis](https://github.com/AdilShamim8/Olympic_History_Analysis)** — Visualization of 120 years of Olympic performance and national achievement trends
 - **[Study Abroad Dataset](https://github.com/AdilShamim8/Study_Abroad)** — Interactive cost comparison for global study programs by country and institution
+- **[Data-Science-Salary-Predictor](https://github.com/AdilShamim8/Data-Science-Salary-Predictor)** — Exploration of data science salary trends across experience levels, regions, and roles
 
 ### Tools & Web Applications
 - **[PaperMap](https://github.com/AdilShamim8/PaperMap)** — Visual library transforming landmark AI research papers into structured, interactive educational experiences
 - **[Toolly](https://github.com/AdilShamim8/Toolly)** — AI-powered productivity platform powering toolly.tech
 - **[Toolly_Studio](https://github.com/AdilShamim8/Toolly_Studio)** — Streamlit app for professional product ad generation using Bria AI's image APIs
-- **[Echo AI](https://github.com/AdilShamim8/Echo_AI)** — Web-based interactive chatbot with a customizable interface
 - **[Harvard Website](https://github.com/AdilShamim8/Harvard-Website)** — Clean, responsive portfolio site built on Harvard's visual design language
 - **[100 Simple Websites](https://github.com/AdilShamim8/100-Simple-Websites)** — Progressive front-end projects covering HTML, CSS, and JavaScript fundamentals
 - **[Personal Website](https://github.com/AdilShamim8/AdilShamim8.github.io)** — Portfolio at adilshamim8.github.io showcasing projects and technical writing
 - **[LearnEnglish](https://github.com/AdilShamim8/LearnEnglish)** — Interactive Bengali-to-English vocabulary platform covering the 3,000 most common English words
+
+### Learning Resources & Curricula
+- **[AI-Engineering](https://github.com/AdilShamim8/AI-Engineering)** — Research into AI engineering interview assignments, take-home challenges, and hiring practices
+- **[Fintech-AI-Engineer-Mastery](https://github.com/AdilShamim8/Fintech-AI-Engineer-Mastery)** — Expert-level curriculum and engineering lab for AI Engineers specializing in Financial Technology
+- **[Awesome-AI_ML-Startups](https://github.com/AdilShamim8/Awesome-AI_ML-Startups)** — Community-driven monthly tracker of AI/ML and tech startups, sourced from YC, Crunchbase, Forbes AI 50, and top VC portfolios
+- **[fde-field-guide](https://github.com/AdilShamim8/fde-field-guide)** — A practical field guide to becoming and working as a Forward Deployed Engineer
+- **[DSAwithPython](https://github.com/AdilShamim8/DSAwithPython)** — Python implementations of fundamental data structures and algorithms
+- **[MathForAI](https://github.com/AdilShamim8/MathForAI)** — A single-page-per-module curriculum teaching the math behind modern AI and machine learning
+- **[Build-with-Claude-Code](https://github.com/AdilShamim8/Build-with-Claude-Code)** — Deep notes, assignments, and working solutions for learning Claude Code, from agentic loops to multi-agent systems
+- **[AI-for-Everyone](https://github.com/AdilShamim8/AI-for-Everyone)** — A free 30-day beginner roadmap teaching non-technical people to use AI in daily life, in Bengali and English
+- **[cheat_sheet](https://github.com/AdilShamim8/cheat_sheet)** — Fast-loading developer reference platform distilled to the 20% of knowledge that resolves 80% of real-world usage
+- **[System-Design-For-AI](https://github.com/AdilShamim8/System-Design-For-AI)** — System design for AI, taught like a story, from zero to production
+- **[CloudAcademy](https://github.com/AdilShamim8/CloudAcademy)** — AWS Cloud learning platform, beginner to expert
 
 > **`Kaggle Competition Solutions:`** [AdilShamim8/Kaggle_Competitions](https://github.com/AdilShamim8/Kaggle_Competitions)
 
