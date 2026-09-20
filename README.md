@@ -1,16 +1,15 @@
-# Hi, I'm Adil
+# Hola, I'm Adil Shamim
 
-AI engineer and founder from Bangladesh. I build AI systems that work in production, with a focus on Bengali speech and low-resource NLP.
+*AI engineer and founder. I build AI agents that do real work, and I want to understand what it takes to get from those agents to AGI.*
 
 - Founder and CEO of [ReWoo](https://rewoo.tech/): AI agents that run business work for early-stage founders
 - CTO at a UK-based fintech startup
-- First-author research on Bengali speaker diarization (BUET CSE Fest 2026) and hallucination detection
-- Kaggle Master, top 1% (29 of 4,082)
-- Built [Toolly](https://www.toolly.tech/) solo: 400+ AI tools
+- Kaggle Master, top 1% 
+- Built [Toolly](https://www.toolly.tech/) solo: 500+ AI tools
 
 Ask me about: RAG, agentic AI, Bengali NLP, Kaggle
 
-Open to AI/ML roles, consulting and research work.
+Open to AI/ML roles, consulting, and research work.
 
 <p>
   <a href="https://www.adilshamim.me/assets/docs/AdilShamim_SeniorAIEngineer.pdf">
