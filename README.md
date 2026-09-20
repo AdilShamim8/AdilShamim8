@@ -1,88 +1,25 @@
-<p align="center">
-<a href="https://github.com/AdilShamim8">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&duration=3000&pause=1000&color=4682B4&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Adil+Shamim;AI+Engineer+%7C+Production+ML+Systems+%7C+Kaggle+Top+1%25" alt="Typing SVG" />
-</a>
-</p>
+# Hi, I'm Adil
 
-<p align="center">
-AI engineer specialized in production ML systems and generative AI infrastructure.<br>
-Research depth in Bengali speech AI and low-resource NLP — one of the rarest intersections in the field.<br>
-Building systems that work at scale, not just in notebooks.
-</p>
+AI engineer and founder from Bangladesh. I build AI systems that work in production, with a focus on Bengali speech and low-resource NLP.
 
-<p align="center">
-<a href="https://adilshamim8.github.io/assets/docs/AdilShamim_AI_Engineer_Resume.pdf">
+- Founder and CEO of [ReWoo](https://rewoo.tech/): AI agents that run business work for early-stage founders
+- CTO at a UK-based fintech startup
+- First-author research on Bengali speaker diarization (BUET CSE Fest 2026) and hallucination detection
+- Kaggle Master, top 1% (29 of 4,082)
+- Built [Toolly](https://www.toolly.tech/) solo: 400+ AI tools
+
+Ask me about: RAG, agentic AI, Bengali NLP, Kaggle
+
+Open to AI/ML roles, consulting and research work.
+
+<p>
+  <a href="https://www.adilshamim.me/assets/docs/AdilShamim_SeniorAIEngineer.pdf">
     <img src="https://img.shields.io/badge/Resume-red?style=for-the-badge&logo=adobe">
-</a>
-<a href="[https://adilshamim8.github.io/](https://www.adilshamim.me/)">
+  </a>
+  <a href="https://www.adilshamim.me/">
     <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white">
-</a>
+  </a>
 </p>
-
-```python
-# Production ML · Generative AI · Agentic Systems · Bengali Speech AI · Low-Resource NLP
-print("Build real systems. Ship to production. Compound the learning.")
-```
-
----
-
-## Tech Stack
-
-<table>
-  <tr>
-    <td valign="top" width="33%">
-      <h3>Machine Learning</h3>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-        <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
-        <img src="https://img.shields.io/badge/XGBoost-337AB7?style=flat-square" />
-        <img src="https://img.shields.io/badge/Computer%20Vision-0078D7?style=flat-square" />
-        <img src="https://img.shields.io/badge/NLP-003B57?style=flat-square" />
-      </p>
-    </td>
-    <td valign="top" width="33%">
-      <h3>Generative AI & LLMs</h3>
-      <p>
-        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-        <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-        <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-        <img src="https://img.shields.io/badge/RAG-00897B?style=flat-square" />
-        <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square" />
-        <img src="https://img.shields.io/badge/FAISS-0078D7?style=flat-square" />
-        <img src="https://img.shields.io/badge/Agentic%20AI-FF6F00?style=flat-square" />
-        <img src="https://img.shields.io/badge/Prompt%20Engineering-6B48FF?style=flat-square" />
-      </p>
-    </td>
-    <td valign="top" width="33%">
-      <h3>MLOps & Production</h3>
-      <p>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-        <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" />
-        <img src="https://img.shields.io/badge/ZenML-431D93?style=flat-square" />
-        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AdilShamim8&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=AdilShamim8&theme=tokyonight&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdilShamim8&theme=tokyonight&layout=compact&langs_count=8&hide_border=true" />
-</p>
-
 ---
 
 ## Featured Projects
