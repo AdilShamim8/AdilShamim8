@@ -7,7 +7,7 @@
 - Kaggle Master, top 1% 
 - Built [Toolly](https://www.toolly.tech/) solo: 500+ AI tools
 
-Ask me about: RAG, agentic AI, Bengali NLP, Kaggle
+Ask me about: production RAG (hybrid search, reranking, evals), multi-agent systems with LangGraph, and Kaggle competition strategy
 
 Open to AI/ML roles, consulting, and research work.
 
