@@ -1,13 +1,13 @@
 # Hola, I'm Adil Shamim
 
-*AI engineer and founder. I build AI agents that do real work, and I want to understand what it takes to get from those agents to AGI.*
+**AI engineer and founder. I build AI agents that do real work, and I want to understand what it takes to get from those agents to AGI.**
 
 - Founder and CEO of [ReWoo](https://rewoo.tech/): AI agents that run business work for early-stage founders
 - CTO at a UK-based fintech startup
 - Kaggle Master, top 1% 
 - Built [Toolly](https://www.toolly.tech/) solo: 500+ AI tools
 
-Ask me about: production RAG (hybrid search, reranking, evals), multi-agent systems with LangGraph, and Kaggle competition strategy
+*Ask me about: production RAG (hybrid search, reranking, evals), multi-agent systems with LangGraph, and Kaggle competition strategy*
 
 Open to AI/ML roles, consulting, and research work.
 
