@@ -19,7 +19,6 @@ Open to AI/ML roles, consulting, and research work.
     <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white">
   </a>
 </p>
----
 
 ## Featured Projects
 
