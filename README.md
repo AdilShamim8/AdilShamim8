@@ -182,11 +182,7 @@ Open to AI/ML roles, consulting, and research work.
 
 <br/>
 
-⭐ <strong>If this repository helped you, consider giving it a star!</strong> ⭐
-
 </div>
-
-
 
 
 <p align="center">
