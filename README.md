@@ -152,6 +152,9 @@ Open to AI/ML roles, consulting, and research work.
   <a href="https://adilshamim8.medium.com/">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
+  <a href="https://adilshamim.substack.com/">
+    <img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" />
+  </a>
   <a href="https://linkedin.com/in/adilshamim8">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -165,6 +168,10 @@ Open to AI/ML roles, consulting, and research work.
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
+
+<p align="center">
+</p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AdilShamim8&color=blueviolet&style=flat-square&label=Profile+Views" />
