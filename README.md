@@ -144,7 +144,6 @@ Open to AI/ML roles, consulting, and research work.
 
 ---
 
-```html
 <div align="center">
 
 ### ✦ Connect With Me
@@ -186,7 +185,7 @@ Open to AI/ML roles, consulting, and research work.
 ⭐ <strong>If this repository helped you, consider giving it a star!</strong> ⭐
 
 </div>
-```
+
 
 
 
