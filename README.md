@@ -184,7 +184,6 @@ Open to AI/ML roles, consulting, and research work.
 
 </div>
 
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AdilShamim8&color=blueviolet&style=flat-square&label=Profile+Views" />
 </p>
