@@ -5,7 +5,7 @@
 - Founder and CEO of [ReWoo](https://rewoo.tech/): AI agents that run business work for early-stage founders
 - CTO at a UK-based fintech startup
 - Kaggle Master, top 1% 
-- Built [Toolly](https://www.toolly.tech/) solo: 500+ AI tools
+- Built [Toolly](https://adilshamim8.github.io/Toolly/) solo: 500+ AI tools
 
 *Ask me about: production RAG (hybrid search, reranking, evals), multi-agent systems with LangGraph, and Kaggle competition strategy*
 
